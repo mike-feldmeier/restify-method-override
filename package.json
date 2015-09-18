@@ -1,0 +1,23 @@
+{
+  "name": "restify-method-override",
+  "description": "a simple restify plugin to enable method overrides",
+  "homepage": "https://github.com/mike-feldmeier/restify-method-override",
+  "bugs": "https://github.com/mike-feldmeier/restify-method-override/issues",
+  "author": "Mike Feldmeier <mike.feldmeier@gmail.com> (http://www.mikefeldmeier.com)",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "restify",
+    "method",
+    "override",
+    "plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mike-feldmeier/restify-method-override.git"
+  },
+  "dependencies": {
+    "merge": "latest"
+  },
+  "main": "method-override"
+}
